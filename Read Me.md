@@ -1,2 +1,3 @@
 # Demo Text
-Welcome to the Git & GitHub Enviroment
+Welcome to the Git & GitHub Enviroment.
+Lets Get started
